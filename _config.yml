@@ -1,2 +1,4 @@
 name: Amigo Fresco, Chatbot for Cloud Ops Management
 markdown: kramdown
+gems:
+  - jekyll-sitemap
